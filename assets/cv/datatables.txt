@@ -1,0 +1,8 @@
+datatables.net
+js ke andar function is nothing but a class
+syntax
+var var_name = function(){}
+lengthmenu [] //array
+-1 is for all
+
+he has a habit of saying bacha alot
